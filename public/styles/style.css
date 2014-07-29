@@ -1,0 +1,27 @@
+.main-box, .entry {
+	margin-top:200px;
+	margin-left:20px;
+}
+
+.panel {
+	border-radius: 10%;
+}
+
+body {
+	background: url(buddhapigprint.jpg);
+}
+
+input[type=submit] {
+	/*display: none;*/
+	background: url(pig.png);
+	background-repeat: none;
+	text-align: center;
+	font-weight: bold;
+	padding:10px;
+	color: #4eb9c9;
+}
+
+.button{
+	height:100px;
+	width: 100px;
+}
